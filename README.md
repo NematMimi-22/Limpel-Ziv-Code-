@@ -4,5 +4,5 @@ The aim of this project is to get familiar with the compression techniques espec
 of bits used in encoding paragraphs using ASCII code, average number of bits per symbol of the encoded paragraphs, and entropy.
 
 Done By: 
-Nemat Mimi 
+Nemat Mimi ,
 Raneen Ramahi
